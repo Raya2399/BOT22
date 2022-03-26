@@ -6,7 +6,7 @@ const infobot = (prefix) => {
 • *NAMA OWNER :* ${namaowner}
 • *NOMOR OWNER :* ${nomorowner}
 • *LINK :* wa.me/${nomorowner}
-• *CREATOR :* RAMDANI OFFICIAL
+• *CREATOR :* RIMURU BOTZ~
 • *BASE ORI :* RAMDANI OFFICIAL
 • *PREFIX :* MULTI PREFIX
 • *FITUR :* 300+ BARU BIKIN BANG
